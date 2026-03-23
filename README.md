@@ -3,23 +3,11 @@
 <h1>Klarity</h1>
 </div>
 
-<div align="center" style="display: grid; justify-content: center;">
-
-|                                                                  🌟                                                                   |                  Support this project                   |               
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------:|
-|  <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/bitcoin.png" alt="Bitcoin (BTC)" width="32"/>  | <code>bc1qs6qq0fkqqhp4whwq8u8zc5egprakvqxewr5pmx</code> | 
-| <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/ethereum.png" alt="Ethereum (ETH)" width="32"/> | <code>0x3147bEE3179Df0f6a0852044BFe3C59086072e12</code> |
-|  <img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/32/tether.png" alt="USDT (TRC-20)" width="32"/>   |     <code>TKznmR65yhPt5qmYCML4tNSWFeeUkgYSEV</code>     |
-
-</div>
-
 **Klarity** is a media (video and audio) player for **Compose Multiplatform** (desktop-only), built on top of the
 native **FFMpeg** and **PortAudio** libraries, and rendered using the **Skiko** library.
 
 Since frames are rendered directly into the `Composable`, this eliminates the need for compatibility components like
 `SwingPanel`, making it possible to display any `Composable` as an overlay on top of a frame.
-
-<br>
 
 <div align="center">
 <img src="media/preview.png" alt="preview"/>
@@ -409,3 +397,19 @@ player.close().getOrThrow()
 - **[PortAudio](https://www.portaudio.com/)** - Licensed under [MIT License](licenses/PORTAUDIO_LICENSE)
 - **[Signalsmith Stretch](https://github.com/Signalsmith-Audio/signalsmith-stretch/)** - Licensed
   under [MIT License](licenses/SIGNALSMITH_STRETCH_LICENSE)
+
+___
+
+<p align="center">
+  <a href="https://numq.github.io/support">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=112x112&data=https://numq.github.io/support&bgcolor=1a1b26&color=7aa2f7" 
+         width="112" 
+         height="112" 
+         style="border-radius: 4px;" 
+         alt="QR code">
+  </a>
+  <br>
+  <a href="https://numq.github.io/support" style="text-decoration: none;">
+    <code><font color="#bb9af7">numq.github.io/support</font></code>
+  </a>
+</p>
